@@ -1,3 +1,4 @@
+![MasterHead](https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif)
 <h1 align="center">Hi 👋, I'm Ozan</h1>
 <h3 align="center">A passionate software developer and computer science student.</h3>
 
