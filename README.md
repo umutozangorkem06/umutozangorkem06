@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif)
+![MasterHead]([https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif))
 <h1 align="center">Hi 👋, I'm Ozan</h1>
 <h3 align="center">A passionate software developer and computer science student.</h3>
 
