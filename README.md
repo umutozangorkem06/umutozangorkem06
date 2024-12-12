@@ -1,21 +1,60 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hi 👋, I'm Ozan</h1>
-<h3 align="center">A passionate software developer and computer science student.</h3>
+# 👋 Hey There! I'm Umut Ozan Gorkem
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umutozangorkem06&label=Profile%20views&color=0e75b6&style=flat" alt="umutozangorkem06" /> </p>
+---
 
-- 🔭 I’m currently working on **SQL, C, C++, Pyhton**
+## 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **c++ ,java**
+- 🎓 **Computer Science Student** @ *University of South Wales*  
+- 💻 **Freelance Developer** (2+ years) & Former **Electrical Engineering Student**  
+- 🎮 Passionate about **Game Development**, AI, and C++!
 
-- 📫 How to reach me **umutozangorkem06@gmail.com**
+I'm on a journey to become a **kick-ass Computer Scientist** 🚀. I love tinkering with code, learning new things, and breaking (and fixing) stuff along the way.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/umutozangorkem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut ozan gorkem" height="30" width="40" /></a>
-<a href="https://instagram.com/somemusicianproblems" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somemusicianproblems" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🔨 Tech Stack
 
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+**Also dabbling in:** AI, ML, and *whatever catches my curiosity!* 🤖
+
+---
+
+## 🌱 Currently Learning
+
+- Deepening my AI & ML knowledge 🧠  
+- Improving my C++ skills 💪  
+- Exploring the wild world of Python 🐍
+
+---
+
+## 🕹️ Projects & Hobbies
+
+- **Game Development:** Sometimes I build small games and pretend I'm the next big indie dev 🎮✨  
+- **AI Projects:** Combining AI & creativity for fun projects (like helping people design outfits with my app "AI Mitra") 🤖👗  
+- **Tech Clubs:** Actively involved in various tech and student clubs 🚀  
+
+When I'm not coding, you'll probably find me:
+- 🏃‍♂️ **Exploring the outdoors**  
+- 🎧 **Listening to music** or finding new bands  
+- 🍿 **Binge-watching sci-fi movies**
+
+---
+
+## 🌟 Fun Fact
+
+I once managed to break my code so badly that even my debugger was like: "You're on your own, buddy." 🐞🤷‍♂️
+
+---
+
+## 📫 Get in Touch
+
+- 📧 **Email:** [umutozangorkem06@gmail.com](mailto:umutozangorkem06@gmail.com)  
+- 🐦 **Twitter:** [@username](https://twitter.com/)  
+- 💼 **LinkedIn:** [LinkedIn Profile](#) *(Update this link!)*
+
+Feel free to check out my repos, leave a star ⭐, or just say hi! 😄
