@@ -35,7 +35,7 @@ I'm on a journey to become a Computer Scientist 🚀. I love tinkering with code
 ## 🕹️ Projects & Hobbies
 
 - **Game Development:** Sometimes I build small games and pretend I'm the next big indie dev 🎮✨  
-- **AI Projects:** Combining AI & creativity for fun projects (like helping people design outfits with my app "AI Mitra") 🤖👗  
+- **AI Projects:** Combining AI & creativity for fun projects.🤖
 - **Tech Clubs:** Actively involved in various tech and student clubs 🚀  
 
 When I'm not coding, you'll probably find me:
