@@ -9,7 +9,7 @@
 - 💻 **Freelance Developer** (2+ years) & Former **Electrical Engineering Student**  
 - 🎮 Passionate about **Game Development**, AI, and C++!
 
-I'm on a journey to become a **kick-ass Computer Scientist** 🚀. I love tinkering with code, learning new things, and breaking (and fixing) stuff along the way.
+I'm on a journey to become a Computer Scientist 🚀. I love tinkering with code, learning new things, and breaking (and fixing) stuff along the way.
 
 ---
 
