@@ -54,7 +54,7 @@ I once managed to break my code so badly that even my debugger was like: "You're
 ## 📫 Get in Touch
 
 - 📧 **Email:** [umutozangorkem06@gmail.com](mailto:umutozangorkem06@gmail.com)  
-- 🐦 **Twitter:** [@username](https://twitter.com/)  
-- 💼 **LinkedIn:** [LinkedIn Profile](#) *(Update this link!)*
+- 🐦 **Twitter:** [https://x.com/besairo]  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/umutozangorkem/](#)
 
 Feel free to check out my repos, leave a star ⭐, or just say hi! 😄
