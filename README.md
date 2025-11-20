@@ -27,8 +27,7 @@ I'm on a journey to become a Computer Scientist 🚀. I love tinkering with code
 ## 🌱 Currently Learning
 
 - Deepening my AI & ML knowledge 🧠  
-- Improving my C++ skills 💪  
-- Exploring the wild world of Python 🐍
+- Improving my C++ and Pythom skills 💪  
 
 ---
 
@@ -43,13 +42,6 @@ When I'm not coding, you'll probably find me:
 - 🎧 **Listening to music** or finding new bands  
 - 🍿 **Binge-watching sci-fi movies**
 
----
-
-## 🌟 Fun Fact
-
-I once managed to break my code so badly that even my debugger was like: "You're on your own, buddy." 🐞🤷‍♂️
-
----
 
 ## 📫 Get in Touch
 
