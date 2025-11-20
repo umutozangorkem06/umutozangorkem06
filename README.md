@@ -27,7 +27,7 @@ I'm on a journey to become a Computer Scientist 🚀. I love tinkering with code
 ## 🌱 Currently Learning
 
 - Deepening my AI & ML knowledge 🧠  
-- Improving my C++ and Pythom skills 💪  
+- Improving my C++ and Python skills 💪  
 
 ---
 
