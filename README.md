@@ -1,6 +1,6 @@
 # Umut Ozan Gorkem
 
-Software developer and final-year Computer Science student at the University of South Wales in Cardiff. I build products end to end: backends and dashboards, native and cross-platform mobile apps, and games. I'm most interested in work where software meets hardware.
+Software developer and final-year Computer Science student at the University of South Wales in Cardiff. I build products end to end: backends and dashboards, native and cross-platform mobile apps, and games. I'm also interested in robots.
 
 **Now:** my final-year project on 3D reconstruction with low-cost hardware, and HyChef, a food-safety platform for UK restaurants.
 
