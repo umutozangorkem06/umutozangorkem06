@@ -17,7 +17,6 @@ Built with small teams, so the code is private.
 ## Public repos
 
 - [tally-app](https://github.com/umutozangorkem06/tally-app): offline Android counter for push-ups and pages read. Expo, SQLite.
-- [TubeChat](https://github.com/umutozangorkem06/TubeChat-AI-Assistant): ask questions about a YouTube video, using retrieval-augmented generation. LangChain, FAISS, Streamlit.
 - [portfolio](https://github.com/umutozangorkem06/portfolio): source of my website. Astro, Tailwind.
 
 ## Work
