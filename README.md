@@ -4,7 +4,7 @@ Final-year Computer Science student at the University of South Wales in Cardiff.
 
 ## Final-year project
 
-[3d-on-a-budget](https://github.com/umutozangorkem06/3d-on-a-budget): how much of a learned 3D reconstruction pipeline runs on cheap hardware. I'm testing VGGT and Depth Anything V2 on everything from a free Kaggle GPU to a Raspberry Pi 5 with a Hailo-8 accelerator. First results are in the repo.
+[3d-on-a-budget](https://github.com/umutozangorkem06/3d-on-a-budget): how much of a learned 3D reconstruction pipeline runs on cheap hardware. I'm testing Depth Anything V2 and VGGT on a free Kaggle GPU, a laptop CPU, a Jetson Nano and a Raspberry Pi 5 with a Hailo-8, with Gaussian Splatting as the quality reference. First results are in the repo.
 
 ## Apps and games
 
