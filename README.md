@@ -14,11 +14,6 @@ Built with small teams, so the code is private.
 - **Iron Pilgrim**: top-down roguelike where you drive a growing war-train, on [Steam](https://store.steampowered.com/app/4960060/Iron_Pilgrim/). Unity, C#.
 - **HyChef** (in progress): food-safety software for UK restaurants, with an Android app for temperature checks and food diaries, a Laravel API and a Next.js dashboard. Kotlin, Jetpack Compose, Laravel, Next.js.
 
-## Public repos
-
-- [tally-app](https://github.com/umutozangorkem06/tally-app): offline Android counter for push-ups and pages read. Expo, SQLite.
-- [portfolio](https://github.com/umutozangorkem06/portfolio): source of my website. Astro, Tailwind.
-
 ## Work
 
 - IT Support, University of South Wales, since 2025
